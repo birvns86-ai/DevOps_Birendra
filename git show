@@ -1,0 +1,29 @@
+[33mcommit 66cbbf1191a6813249c9175771eeb29ffb365e3c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: Birendra Pratap Singh <birvns86@gmail.com>
+Date:   Fri Aug 14 23:17:17 2026 +0530
+
+    code change
+
+[33mcommit 221db34c6a6cc0d4d33db4f1bbe1a3434daf585a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Birendra Pratap Singh <birvns86@gmail.com>
+Date:   Fri Aug 14 23:04:03 2026 +0530
+
+    Resource Group
+
+[33mcommit 0ab5353258e0f5803d2c0c47ab9c22c8690a6b6c[m
+Author: Birendra Pratap Singh <birvns86@gmail.com>
+Date:   Tue Aug 4 19:01:51 2026 +0530
+
+    Terraform 6jul file
+
+[33mcommit 2502489d590d4a87f7cb33106cae559a874e22c2[m
+Author: Birendra Pratap Singh <birvns86@gmail.com>
+Date:   Tue Aug 4 18:43:50 2026 +0530
+
+    Terraform first file
+
+[33mcommit 7157fd26fd11d179a12c862721e470e2f64ca9eb[m
+Author: birvns86-ai <birvns86@gmail.com>
+Date:   Tue Aug 4 17:52:18 2026 +0530
+
+    Initial commit
