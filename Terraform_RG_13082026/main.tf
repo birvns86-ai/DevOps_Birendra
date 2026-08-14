@@ -11,6 +11,6 @@ provider "azurerm" {
   features {}
 }
 resource "azurerm_resource_group" "RG1" {
-  name     = "recap_rg"
+  name     = "rg_1"
   location = "West Europe"
 }
